@@ -22,7 +22,7 @@ U: Uniq=
 H: Handlers=kbd event0 
 B: PROP=0
 B: EV=3
-B: KEY=10000000000000 0
+B: KEY=10000000000000 
 
 I: Bus=0019 Vendor=0000 Product=0005 Version=0000
 N: Name="Lid Switch"
