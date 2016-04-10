@@ -107,7 +107,7 @@ B: MSC=10
 
 B: LED=7
 
-# it shows that our keyboard event is event3,so we can read file : /dev/input/event3  to get every keyboard event
+#it shows that our keyboard event is event3,so we can read file : /dev/input/event3  to get every keyboard event
 
 
 
@@ -199,7 +199,7 @@ if( SDL_Init(  SDL_INIT_AUDIO ) < 0 )
 
     Mix_PlayChannel( -1, temp, 0 );	
     
- #close 
+#close 
      
    Mix_FreeChunk(temp);
 	  temp=NULL;
